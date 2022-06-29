@@ -1,0 +1,36 @@
+p.classy{
+    color: yellow;
+    font-size: 30px;
+    text-indent: 110px;
+    line-height: 120%;
+    font-size: 120%;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+}
+p.classu{
+    color: royalblue;
+    font-size: 40px;
+    text-indent: 120px;
+    line-height: 130%;
+    font-size: 130%;
+    word-spacing: 22px;
+    letter-spacing: 7px;
+}
+p.classi{
+    color: rebeccapurple;
+    font-size: 25px;
+    text-indent: 130px;
+    line-height: 140%;
+    font-size: 140%;
+    word-spacing: 17px;
+    letter-spacing: 10px;
+}
+p.classy::first-letter{
+    color: black;
+}
+p.classu::first-letter{
+    color: cadetblue;
+}
+p.classi::first-letter{
+    color: crimson;
+}
