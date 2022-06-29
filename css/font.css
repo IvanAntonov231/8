@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+@font-face {
+    font-family:"PTSansNarrow-Bold" ;
+    src: url(/fonts/PTSansNarrow-Bold.ttf);
+}
 p.classy{
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
@@ -8,6 +11,6 @@ p.classu{
     font-weight: 700;
 }
 p.classi{
-    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: "PTSansNarrow-Bold";
     font-weight: 700;
 }
